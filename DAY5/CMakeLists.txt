@@ -1,0 +1,2 @@
+ADD_EXECUTABLE(gogo /home/jyjang/ssafy/linux/DAY5/bts/coco.c /home/jyjang/ssafy/linux/DAY5/bts/run.c
+)

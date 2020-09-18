@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jyjang/ssafy/linux/DAY5/bts/coco.c
+coco.h
+/home/jyjang/ssafy/linux/DAY5/bts/coco.h
+
+/home/jyjang/ssafy/linux/DAY5/bts/coco.h
+
+/home/jyjang/ssafy/linux/DAY5/bts/run.c
+stdio.h
+-
+coco.h
+/home/jyjang/ssafy/linux/DAY5/bts/coco.h
+

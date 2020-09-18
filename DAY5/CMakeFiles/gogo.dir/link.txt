@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/gogo.dir/bts/coco.c.o CMakeFiles/gogo.dir/bts/run.c.o  -o gogo 
